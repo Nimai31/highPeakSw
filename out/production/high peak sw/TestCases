@@ -1,0 +1,73 @@
+TestCase 1
+
+Enter the number of Jobs:
+4
+Enter job start time, end time, and earnings:
+0900
+1200
+200
+0915
+1130
+300
+1000
+1230
+150
+1030
+1300
+250
+
+output 1
+
+The number of tasks and earnings available for others
+Task: 3
+Earnings: 600
+
+
+TestCase 2
+
+Enter the number of Jobs:
+3
+Enter job start time, end time, and earnings:
+0900
+1000
+150
+1015
+1100
+200
+1115
+1200
+300
+
+output 2
+
+The number of tasks and earnings available for others
+Task: 0
+Earnings: 0
+
+
+TestCase 3
+
+Enter the number of Jobs:
+5
+Enter job start time, end time, and earnings:
+0900
+1000
+50
+0930
+1030
+100
+1000
+1100
+500
+1045
+1200
+200
+1130
+1300
+400
+
+output 3
+
+The number of tasks and earnings available for others
+Task: 2
+Earnings: 300
